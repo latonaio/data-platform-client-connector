@@ -1,0 +1,10 @@
+{
+  "countryName": "JP",
+  "stateOrProvinceName": "Tokyo",
+  "localityName": "Minato-ku",
+  "organizationName": "Latona Inc",
+  "organizationalUnitName": "IT Department",
+  "commonName": "localhost",
+  "emailAddress": "info@latona.io",
+  "subjectAltName": "IP:127.0.0.1,DNS:localhost"
+}
